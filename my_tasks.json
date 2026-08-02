@@ -1,0 +1,14 @@
+[
+  {
+    "task": "Go to gym",
+    "status": "Incomplete"
+  },
+  {
+    "task": "buy some groceries",
+    "status": "Incomplete"
+  },
+  {
+    "task": "Go for a walk",
+    "status": "Incomplete"
+  }
+]

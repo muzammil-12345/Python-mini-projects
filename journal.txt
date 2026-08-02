@@ -1,0 +1,2 @@
+Day 1: Today I learned about Writing and appending into files in python.
+Day 2: I Built a journal logger today.

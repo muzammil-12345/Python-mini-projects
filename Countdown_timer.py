@@ -1,31 +1,6 @@
-# Day 5: Loops, Countdown Timer, and New Year Countdown
+# Day 5 : Countdown Timer
 
-start = 1
-stop = 5
-step = 1
-for variable in range(start, stop, step):
-  print(variable)
-
-for i in range(5, 0, -1):
-  print(i)
-
-condition = False
-while condition:
-  # Code to repeat
-  pass
-
-count = 0
-while count < 5:
-  print(count)
-
-import time
-
-for i in range(10, 0, -2):
-  print(i)
-  time.sleep(2)
-print("Happy New Year!")
-
-# Countdown Timer
+# -----Countdown Timer-----
 
 import time
 
@@ -36,7 +11,7 @@ start = int(input("Enter the number to start the countdown from: "))
 print("\n--- Countdown Begins ---")
 while start > 0:
   print(start)
-  time.sleep(1)
+  time.sleep(0.5)
   start -= 1
 
 # Step 3: Print final message

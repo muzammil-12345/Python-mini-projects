@@ -1,17 +1,6 @@
 # Day 1 : Introduction to Python Programming
-# Welcome Message Generator & Basic Python Syntax
-print("Hello, Python World!")
 
-print("The number is", 4)
-print("2 + 2 =", 3 + 2)
-
-name = "Muzammil"
-print(f"Hello, {name}! Welcome to Python Programming")
-
-userName = input("What is your name? ")
-print(f"Hello, {userName}! Welcome to Python Programming")
-
-# Welcome Message Generator
+# -----Welcome Message Generator-----
 
 # Step 1: Ask for user details
 name = input("What's your name? ")
