@@ -1,4 +1,4 @@
-# Day 6: Functions, Return Values, and Basic Math Quiz Game
+# Day 6: Functions, Return Values, and Basic Math Quiz Gam
 
 def function_name():
   # Code block inside the functuion
