@@ -1,6 +1,6 @@
 '''
   Day 15: Recipe Viewr App
-  Topics Covered: 
+  Topics Covered:
   1. File reading in python
   2. Reading files Using open()
   3. Reading Modes(r, rb, r+)
