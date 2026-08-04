@@ -1,5 +1,5 @@
 '''
- Day 29: Matrix Calcuator Using Numpy 
+ Day 29: Matrix Calcuator Using Numpy
  Topics Covered:
  1. Introduction to Numpy
  2. Matrix Operations using Numpy
