@@ -1,5 +1,5 @@
 '''
- Day 27: Inventory management system using 
+ Day 27: Inventory management system using
          static and class methods
  Topics Covered:
  1. What are static and class methods
